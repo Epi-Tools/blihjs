@@ -1,0 +1,22 @@
+{
+  "name": "blihjs",
+  "version": "1.0.0",
+  "description": "EPITECH Blih support for Node.js",
+  "main": "blih.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlendev/blihjs.git"
+  },
+  "author": "Yann Carlen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlendev/blihjs/issues"
+  },
+  "homepage": "https://github.com/carlendev/blihjs#readme",
+  "dependencies": {
+    "request": "^2.82.0"
+  }
+}
